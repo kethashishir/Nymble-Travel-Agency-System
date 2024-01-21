@@ -2,6 +2,7 @@
 Welcome to the Nymble Travel Agency System! This project is a Java-based travel agency management system that allows users to perform various tasks related to travel packages, activity enrollments, and passenger details.
 
 **Project Overview**
+
 The software is designed to provide functionality for a travel agency, including features such as:
 
 - Admin login to access the system.
@@ -14,6 +15,7 @@ The software is designed to provide functionality for a travel agency, including
 - To run the application, start with the Splash.java class. This serves as the entry point to the system. The project is structured with multiple classes to handle different aspects of the travel agency functionality.
 
 **Prerequisites**
+
 - Java Development Kit (JDK)
 - MySQL Database
 - NetBeans or any preferred Java IDE
@@ -23,6 +25,7 @@ The software is designed to provide functionality for a travel agency, including
 - Run the Splash.java file to start the application.
 
 **Project Structure**
+
 The project is organized into several classes, each handling specific functionalities. Below are key classes:
 
 Splash.java: The starting point of the application. Handles the initialization and transition to the main system.
@@ -42,14 +45,17 @@ CustomerActivityEnrollment.java: Enables customers to enroll in activities, prov
 Conn.java: Handles the connection to the MySQL database.
 
 **Testing**
+
 JUnit testing has been implemented for each class to ensure the reliability and correctness of the implemented functionalities.
 
 **Folder Structure**
+
 src: Contains the source code files.
 icons: Holds icons used in the GUI.
 test: Includes JUnit test files for testing each class.
 
 **Languages Used**
+
 High-Level Language: Java
 Low-Level Language: SQL (used for database interactions)
 Feel free to explore the classes and functionalities provided by the Nymble Travel Agency System. If you encounter any issues or have suggestions for improvements, please let us know!
