@@ -1,6 +1,11 @@
 # Nymble Travel Agency System
 Welcome to the Nymble Travel Agency System! This project is a Java-based travel agency management system that allows users to perform various tasks related to travel packages, activity enrollments, and passenger details.
 
+**admin login credentials**
+**username : Nymble**
+**password: Admin123**
+
+
 **Project Overview**
 
 The software is designed to provide functionality for a travel agency, including features such as:
